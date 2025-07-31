@@ -119,6 +119,9 @@
     "@react-navigation/stack": "^7.4.4",
     "@supabase/supabase-js": "^2.53.0",
     "expo": "^53.0.20",
-    "expo-linear-gradient": "^14.1.5"
+    "expo-linear-gradient": "^14.1.5",
+    "react-dom": "19.0.0",
+    "react-native-web": "^0.20.0",
+    "@expo/metro-runtime": "~5.0.4"
   }
 }
